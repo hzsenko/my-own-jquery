@@ -1,3 +1,1 @@
-# my-own-jquery
-# my-own-jquery
-# my-own-jquery
+# My own jQuery library
